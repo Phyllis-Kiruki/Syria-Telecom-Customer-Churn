@@ -2,6 +2,22 @@
 
 This project focuses on analyzing customer churn for Syria Telecom, aiming to understand the factors influencing customer attrition and develop strategies to reduce, how much money is lost. ( This is a binary classification problem.)
 
+PROBLEM STATEMENT
+
+The primary challenge at hand involves crafting a predictive framework capable of precisely pinpointing customers at the verge of churning from SyriaTel's offerings. By harnessing historical customer data and pertinent variables, the aim is to construct a classifier adept at distinguishing between customers inclined to maintain their subscriptions and those inclined to churn imminently.
+Objectives:
+
+1.Prediction: Forge a robust binary classification model for precise customer churn prediction.
+
+2.Uncover Key Drivers: Identify and scrutinize the pivotal factors influencing customer churn.
+
+3.Strategic Retention Initiatives: Furnish actionable intelligence to facilitate the implementation of targeted retention tactics for vulnerable customers.
+
+4.Revenue Safeguarding: Mitigate revenue erosion by curtailing the exodus of customers discontinuing services.
+
+kaggle datasets download -d becksddf/churn-in-telecoms-dataset
+
+
 ## Description
 
 To provide a more detailed description of encoding categorical variables for machine learning projects, it is essential to understand that categorical variables are those that represent categories rather than numerical values.
